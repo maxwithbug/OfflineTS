@@ -1,0 +1,3 @@
+[submodule "mainOnlineServer"]
+	path = mainOnlineServer
+	url = https://github.com/maxwithbug/mainOnlineServer
