@@ -1,3 +1,9 @@
 [submodule "mainOnlineServer"]
 	path = mainOnlineServer
 	url = https://github.com/maxwithbug/mainOnlineServer
+[submodule "AppServer"]
+	path = AppServer
+	url = https://github.com/maxwithbug/AppServer
+[submodule "bankDemo"]
+	path = bankDemo
+	url = https://github.com/maxwithbug/bankDemo
