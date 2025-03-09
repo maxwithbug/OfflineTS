@@ -1,0 +1,26 @@
+### bakdemo ###
+
+i need a bakDetails model
+    1.mobileNumber -> for varification
+  2. bankAccountNumber
+  3. IFSC Code
+
+get the data from user and store this data in database
+
+### AppServer  ###
+
+i need a personalDetails model
+    1. first name
+    2. last name
+    3. dateOfBirth
+    4. email
+     
+
+so i need 2 api for this
+    1. for signup and login - one api for both
+
+ 
+
+
+
+
